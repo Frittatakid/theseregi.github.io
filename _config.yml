@@ -31,10 +31,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Your name
+  name: Samuel Leroy Jackson
   avatar: avatar.jpg
-  job: "Your job"
-  bio: "Write about yourself"
+  job: Actor, and stuff.
+  bio: "..."
   email:
   disqus-shortname:
   twitter:
