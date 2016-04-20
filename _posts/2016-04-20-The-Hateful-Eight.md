@@ -11,7 +11,7 @@ Since we're going to be spending a lot of time in the command-line, let's instal
 
 #### Are you looking for something like this?
 
-![Preview]({{ site.url }}/img/preview.png)
+![The Hateful Eight](/img/thehatefuleight.jpg)
 
 #### iTerm2
 
