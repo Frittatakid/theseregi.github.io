@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Customizing Your iTerm2"
-excerpt: "Just about everything you'll need to customize your iTerm2 or the default Mac OS X Terminal."
-categories: MAC
+title: "The Hateful Eight"
+excerpt: "Quentin Tarantino"
+categories: Films
 tags: [terminal, iTerm2, OS X]
-date: 2015-04-29T21:32:27+02:00
+date: 2016-04-20T21:32:27+02:00
 comments: true
 ---
 Since we're going to be spending a lot of time in the command-line, let's install a better terminal than the default one.
