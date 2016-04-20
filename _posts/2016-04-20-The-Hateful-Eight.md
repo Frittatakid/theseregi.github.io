@@ -4,12 +4,10 @@ title: "The Hateful Eight"
 excerpt: "Quentin Tarantino"
 categories: Films
 tags: [terminal, iTerm2, OS X]
-date: 2016-04-20T21:32:27+02:00
+date: 2016-04-18T21:32:27+02:00
 comments: true
 ---
-Since we're going to be spending a lot of time in the command-line, let's install a better terminal than the default one.
-
-#### Are you looking for something like this?
+### Poster
 
 ![The Hateful Eight](/img/thehatefuleight.jpg)
 

@@ -1,10 +1,14 @@
 ---
 layout: post
-title: My first Ruby on Rails project
+title: Django Unchained
 excerpt: "Everything looks great, but the landing page sucks."
 categories: Life
 comments: true
 ---
+### Poster
+
+![Django Unchained](/img/djangounchained.jpg)
+
 
 第一次接触到 Ruby 是为什么我已经不记得了，不，确切的说是知道了 Rails 先于 Ruby
  （当时还不知道Ruby是一门语言）。之后，开始疯狂在 lynda 、 codecademy 和 codeschool 上看有关于 Ruby on Rails

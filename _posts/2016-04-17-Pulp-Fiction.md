@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Tips for Git users
+title: Pulp Fiction
 excerpt: "Git is a powerful tool for Web development, here is some useful tips for Git beginners."
 categories: Git
 comments: true
 ---
+
+### Poster
+
+![The Hateful Eight](/img/thehatefuleight.img)
 
 If you know nothing about Git, google it, this is not the right place to start learning Git. I wrote this article for developers who know already the basic Git usage and use Git as an important piece of workflow.
 

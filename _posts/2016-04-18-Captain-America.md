@@ -1,10 +1,14 @@
 ---
 layout: post
-title: New site new life
+title: Captain America
 categories: Life
 excerpt: "Timeline between June and September. And what I learned."
 comments: true
 ---
+
+### Poster
+
+![Captain America](/img/captainamerica.img)
 
 I did finish my 3 months internship few weeks ago and I reworked my blog site during these holidays so that I won't be boring.
 
