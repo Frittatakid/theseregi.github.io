@@ -451,7 +451,9 @@ th {
 
 img {
   height: auto;
-  max-width: 100%; }
+  max-width: 100%;
+  display: block;
+  margin: 0 auto; }
 
 table,
 th,
@@ -1448,7 +1450,8 @@ pre code {
 
 .cover-card {
   color: rgba(0, 0, 0, 0.87);
-  padding: 0 30px; }
+  padding: 0 30px;
+  background-image: url("/img/SLJ2.jpg"); }
   .cover-card .avatar {
     border-radius: 50%;
     width: 100px;
@@ -1456,12 +1459,12 @@ pre code {
     float: none; }
   .cover-card .author_name {
     display: block;
-    color: #F36170;
+    color: #770300;
     font-size: 1.75em;
     text-transform: lowercase; }
   .cover-card .author_job {
     display: block;
-    color: #8d7edc;
+    color: #2C005F;
     font-size: 0.8em;
     font-weight: 700;
     text-transform: uppercase;

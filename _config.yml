@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title:       "Leonids Jekyll theme"
-description: "Clean Jekyll blog theme called Leonids."
+title:       "Films starring SLJ"
+description: "That's it"
 url:         # the base hostname & protocol for your site
 
 #
@@ -31,7 +31,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Samuel Leroy Jackson
+  name: "Samuel Leroy Jackson"
   avatar: avatar.jpg
   job: Actor, and stuff.
   bio: "..."

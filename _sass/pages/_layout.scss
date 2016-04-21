@@ -20,6 +20,7 @@
 .cover-card {
   color: $text-color;
   padding: 0 30px;
+  background-image: url("/img/SLJ2.jpg");
   .avatar {
     border-radius: 50%;
     width: 100px;
@@ -28,13 +29,13 @@
   }
   .author_name {
     display: block;
-    color: #F36170;
+    color: #770300;
     font-size: 1.75em;
     text-transform: lowercase;
   }
   .author_job {
     display: block;
-    color: $secondary;
+    color: #2C005F;
     font-size: 0.8em;
     font-weight: 700;
     text-transform: uppercase;

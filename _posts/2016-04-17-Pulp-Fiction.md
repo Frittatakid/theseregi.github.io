@@ -1,50 +1,42 @@
 ---
 layout: post
 title: Pulp Fiction
-excerpt: "Git is a powerful tool for Web development, here is some useful tips for Git beginners."
+excerpt: "Say what again"
 categories: Git
 comments: true
 ---
 
 ### Poster
 
-![The Hateful Eight](/img/thehatefuleight.img)
+![Pulp Fiction](/img/pulpfiction.jpg)
 
-If you know nothing about Git, google it, this is not the right place to start learning Git. I wrote this article for developers who know already the basic Git usage and use Git as an important piece of workflow.
+## Plot
 
-### Always use `git status`
+"Prologue—The Diner"
 
-It's good to start off using git with good habits. Using `git status` to find where you are is one of them. The terminal's output shows the actions you can do with the current status.
+A couple, Pumpkin and Honey Bunny, decide to rob a diner.
+Prelude to "Vincent Vega and Marsellus Wallace's Wife"
 
-### I want see a list of details of my last N commits
+Hitmen Jules Winnfield and Vincent Vega are on their way to retrieve a briefcase from Brett, who has transgressed against their boss, gangster Marsellus Wallace. Vincent says Marsellus has asked him to escort his wife while Marsellus is out of town. They arrive at Brett's place, where they confront him and two of his associates over the briefcase. Vincent finds the briefcase and Jules shoots one of Brett's associates, then delivers a passage from the Bible before killing Brett with Vincent.
 
-For example: to see your last 5 commits
+Champion boxer Butch Coolidge accepts a large sum of money from Marsellus after agreeing to take a dive in his upcoming match. Vincent and Jules arrive to deliver the briefcase. The next day, Vincent purchases heroin from his drug dealer Lance. He shoots up to pass the day, then drives to meet Mrs. Mia Wallace.
 
-~~~ shell
-git log -n 5 --author=Salvador
-~~~
+Vincent and Mia head to a 1950s-themed restaurant and participate in a twist contest, then return to the Wallace house with the trophy. While Vincent is in the bathroom, Mia finds his heroin, mistakes it for cocaine, snorts it and overdoses. Vincent rushes her to Lance's house, where they revive her with an adrenaline shot to her heart.
+Prelude to "The Gold Watch"
 
-If you want a simpler one line solution:
+Butch recalls a visit from Vietnam veteran Captain Koons in his youth. Koons brought a gold watch passed down through three generations of Coolidge men since World War I; at the dying request of Coolidge's father, Koons hid the watch in his rectum for two years to deliver it to Butch.
+"The Gold Watch"
 
-~~~ shell
-git log --oneline -n 5 --author=Salvador
-~~~
+Butch flees the arena, having double-crossed Marsellus and won the bout. The next morning, at the motel where he and his girlfriend Fabienne are lying low, Butch discovers she has forgotten to pack his father's watch and flies into a rage. He returns to his apartment, retrieves the watch, and notices a gun on the kitchen counter. Hearing the toilet flush, Butch shoots Vincent dead after he exits the bathroom.
 
-If you like the single line version, try creating an alias for git log like this (this is what I have for zsh)
+As Butch waits at a traffic light in his car, Marsellus walks by and recognizes him. Marsellus chases him into a pawnshop. The owner, Maynard, captures them at gunpoint and ties them up in a basement. Maynard is joined by Zed, a security guard; they take Marsellus to another room to rape him, leaving a silent figure in a bondage suit, "the gimp", to watch Butch.
 
-~~~ shell
-alias glog="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
-~~~
+Butch breaks loose and knocks out the gimp. He is about to flee, but decides to save Marsellus. As Zed is raping Marsellus, Butch kills Maynard with a katana retrieved from the pawnshop. Marsellus retrieves Maynard's shotgun and shoots Zed. Marsellus informs Butch that they are even, so long as he never tells anyone about the rape and departs Los Angeles forever. Butch returns to pick up Fabienne on Zed's chopper.
+"The Bonnie Situation"
 
-Now, I can just use:
+After Vincent and Jules execute Brett, another man bursts out of the bathroom and shoots wildly, missing every time; Jules and Vincent shoot him. Jules decides their lucky escape was a miracle, which Vincent disputes.
 
-~~~ shell
-glog -n 5
-~~~
+As Jules drives, Vincent accidentally shoots Marvin, one of Brett's associates, in the face. They hide the car at the home of their associate Jimmie, who insists they deal with the problem before his wife Bonnie comes home. Marsellus sends his cleaner, Winston Wolfe, who orders Jules and Vincent to clean the car, hide the body in the trunk, and dispose of their bloody clothes. They drive the car to a junk yard and Jules and Vincent decide to get breakfast.
+"Epilogue—The Diner"
 
-And I get a nice output.
-
-Which is colorized, shows the name of the author and also shows the graph and you can still pass in other flags (such as --author) which lets you filter it even more.
-
-[You can see the original answer here.](http://stackoverflow.com/questions/13542213/git-see-a-list-of-comments-of-my-last-n-commits#answer-13542327)
-
+In the diner, Jules tells Vincent he plans to retire from his life of crime, taking their "miraculous" survival as a sign. While Vincent is in the bathroom, Pumpkin and Honey Bunny hold up the restaurant. When Jules holds Pumpkin at gunpoint, Honey Bunny becomes hysterical and trains her gun on him; Vincent returns with his gun trained on her. Jules recites the biblical passage, expresses ambivalence about his life of crime, and allows the robbers to take the cash and leave. Jules and Vincent leave the diner with the briefcase.
