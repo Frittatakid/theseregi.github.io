@@ -2,7 +2,7 @@
 layout: post
 title: Pulp Fiction
 excerpt: "Say what again"
-categories: Git
+categories: Films
 comments: true
 ---
 
