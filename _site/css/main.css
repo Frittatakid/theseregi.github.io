@@ -1451,7 +1451,9 @@ pre code {
 .cover-card {
   color: rgba(0, 0, 0, 0.87);
   padding: 0 30px;
-  background-image: url("/img/SLJ2.jpg"); }
+  background-image: url("/img/SLJ2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%; }
   .cover-card .avatar {
     border-radius: 50%;
     width: 100px;
