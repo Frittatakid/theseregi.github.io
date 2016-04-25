@@ -4,6 +4,7 @@ title: Django Unchained
 excerpt: "The D is silent"
 categories: Films
 comments: true
+image: featdjangounchained.jpg
 ---
 ### Poster
 

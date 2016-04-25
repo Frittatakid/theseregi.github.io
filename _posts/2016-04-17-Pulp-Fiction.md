@@ -4,6 +4,7 @@ title: Pulp Fiction
 excerpt: "Say what again"
 categories: Films
 comments: true
+image: featpulpfiction.jpg
 ---
 
 ### Poster

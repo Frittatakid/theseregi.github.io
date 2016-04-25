@@ -4,6 +4,7 @@ title: "Captain America: The Winter Soldier"
 categories: Films
 excerpt: "How patriotic"
 comments: true
+image: featcaptainamerica.jpg
 ---
 
 ### Poster

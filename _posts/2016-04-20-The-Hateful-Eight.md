@@ -5,6 +5,7 @@ excerpt: "A post with a good damn reason"
 categories: Films
 date: 2016-04-18T21:32:27+02:00
 comments: true
+image: featthehatefuleight.jpg
 ---
 ### Poster
 
